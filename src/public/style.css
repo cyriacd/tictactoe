@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+td {
+  width: 320px;
+  height: 100px;
+}
+table {
+  margin: 5px auto;
+}
+.mvert {
+    border-left: 4px solid red;
+    border-right: 4px solid red;
+}
+.mhori {
+    border-top: 4px solid red;
+    border-bottom: 4px solid red;
+}
+.vert {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+.hori {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
